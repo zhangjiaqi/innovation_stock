@@ -1,1 +1,4 @@
 data/
+scripts/ops_logs/
+scripts/.ipynb_checkpoints/
+scripts/__pycache__/
